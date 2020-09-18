@@ -1,0 +1,11 @@
+
+1['legislation', 'either', 'regard', 'clause']
+2['immigrant', 'although', 'put', 'parent']
+3['particular', 'science', 'committee', 'shortage']
+4['chancellor', 'certainly', 'sure', 'election']
+5['apparently', 'actually', 'apparently', 'mail']
+6['sure', 'likely', 'insisted', 'economic']
+7['remark', 'drinking', 'actually', 'perhaps']
+8['party', 'insisting', 'especially', 'election']
+9['sure', 'conference', 'hotel', 'party']
+['apparently', 'although', 'government', 'even']

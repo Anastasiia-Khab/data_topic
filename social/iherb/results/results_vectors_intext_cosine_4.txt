@@ -1,0 +1,11 @@
+
+1['add', 'apply', 'quick', 'shine']
+2['information', 'help', 'link', 'support']
+3['fruit', 'sugar', 'good', 'organic']
+4['rest', 'good', 'night', 'feeling']
+5['eczema', 'dry', 'help', 'ingredient']
+6['must', 'must', 'take', 'way']
+7['know', 'want', 'support', 'healthy']
+8['must', 'must', 'take', 'see']
+9['toothpaste', 'white', 'help', 'coffee']
+['want', 'even', 'well', 'want']

@@ -1,0 +1,11 @@
+
+1['one', 'one', 'much', 'much']
+2['take', 'given', 'given', 'time']
+3['one', 'one', 'time', 'last']
+4['took', 'want', 'record', 'world']
+5['first', 'well', 'put', 'still']
+6['time', 'time', 'time', 'last']
+7['well', 'still', 'last', 'take']
+8['last', 'last', 'year', 'year']
+9['now', 'people', 'thing', 'everyone']
+['one', 'one', 'one', 'one']

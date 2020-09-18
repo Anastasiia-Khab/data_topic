@@ -1,0 +1,11 @@
+
+1['winner', 'well', 'five', 'year']
+2['one', 'well', 'first', 'first']
+3['first', 'first', 'later', 'later']
+4['given', 'bring', 'show', 'show']
+5['know', 'good', 'always', 'book']
+6['even', 'even', 'one', 'one']
+7['given', 'next', 'show', 'show']
+8['first', 'well', 'one', 'first']
+9['one', 'even', 'even', 'make']
+['one', 'one', 'one', 'one']

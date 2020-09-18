@@ -1,0 +1,11 @@
+
+1['apparently', 'bmxznot', 'however', 'newspaper']
+2['car', 'sale', 'however', 'payexercisedmr']
+3['i.e.', 'however', 'demand', 'http://wmub.org']
+4['drink', 'however', 'euro', 'firm']
+5['whereas', 'assistance', 'food', 'tonne']
+6['however', 'hcgdietauthor', 'earlier', 'business']
+7['need', 'however', 'investment', 'mobile']
+8['once', 'job', 'hence', 'rate']
+9['fuel', 'however', 'expected', 'surcharge']
+['whereas', 'bmxznot', 'however', 'concerned']

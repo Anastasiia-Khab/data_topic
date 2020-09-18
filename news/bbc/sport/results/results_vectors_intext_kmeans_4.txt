@@ -1,0 +1,11 @@
+
+1['meant', 'already', 'race', 'week']
+2['brought', 'reason', 'competition', 'country']
+3['athlete', 'test', 'aware', 'one']
+4['another', 'took', 'lap', 'won']
+5['indoor', 'put', 'won', 'next']
+6['champion', 'half', 'similar', 'failed']
+7['race', 'hoping', 'year', 'camp']
+8['race', 'year', 'earlier', 'won']
+9['issue', 'decided', 'doping', 'athlete']
+['champion', 'last', 'concerned', 'even']

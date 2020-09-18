@@ -1,0 +1,11 @@
+
+1['another', 'make', 'although', 'newspaper']
+2['making', 'making', 'last', 'deal']
+3['much', 'although', 'still', 'might']
+4['well', 'one', 'yet', 'drink']
+5['well', 'need', 'assistance', 'tonne']
+6['make', 'many', 'make', 'possible']
+7['need', 'need', 'need', 'investment']
+8['still', 'still', 'given', 'given']
+9['revenue', 'one', 'still', 'still']
+['well', 'even', 'well', 'well']

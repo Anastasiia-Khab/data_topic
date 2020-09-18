@@ -1,0 +1,2 @@
+
+[('world', 37), ('race', 27), ('time', 24), ('year', 23), ('won', 21), ('team', 16), ('second', 16), ('year old', 15), ('last', 14), ('win', 13), ('indoor', 13), ('now', 13), ('event', 13), ('athletic', 13), ('olympic', 13), ('cross country', 13), ('chepkemei', 12), ('champion', 12), ('gold', 12), ('mcilroy', 11), ('madrid', 11), ('title', 11), ('season', 11), ('best', 11), ('two', 11), ('athlete', 11), ('iaaf', 11), ('meeting', 11), ('european indoor', 11), ('week', 10)]

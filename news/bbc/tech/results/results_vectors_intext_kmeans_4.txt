@@ -1,0 +1,11 @@
+
+1['even', 'bill', 'software', 'consideration']
+2['film', 'even', 'need', 'print']
+3['particular', 'although', 'even', 'blog']
+4['industry', 'game', 'obviously', 'creative']
+5['possibly', 'gadget', 'either', 'even']
+6['service', 'expect', 'price', 'even']
+7['make', 'meant', 'laser', 'light']
+8['either', 'program', 'flaw', 'update']
+9['initially', 'put', 'laptop', 'child']
+['possibly', 'even', 'either', 'although']

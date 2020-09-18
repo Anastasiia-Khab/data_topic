@@ -1,0 +1,11 @@
+
+1['well', 'even', 'must', 'must']
+2['even', 'one', 'make', 'make']
+3['one', 'one', 'one', 'one']
+4['one', 'work', 'want', 'many']
+5['one', 'one', 'even', 'well']
+6['even', 'one', 'need', 'many']
+7['one', 'make', 'make', 'make']
+8['one', 'one', 'either', 'make']
+9['one', 'one', 'one', 'make']
+['even', 'even', 'even', 'even']

@@ -1,0 +1,11 @@
+
+1['child', 'well', 'winner', 'came']
+2['winner', 'author', 'well', 'certainly']
+3['later', 'novel', 'certainly', 'pilot']
+4['turned', 'bring', 'film', 'musical']
+5['laughable', 'present', 'evidence', 'book']
+6['ballet', 'even', 'latter', 'even']
+7['given', 'actor', 'performance', 'play']
+8['won', 'well', 'book', 'favourite']
+9['best', 'even', 'book', 'winner']
+['although', 'latter', 'although', 'winner']

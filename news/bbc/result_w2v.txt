@@ -1,0 +1,6 @@
+PageRank:
+sport: ['new', 'kenya', 'cm', 'cross', 'missed', 'york', 'year', 'middle', 'claims', 'sprinters']
+business: ['government', 'hedging', 'maran', 'added', 'motors', 'market', 'tabloid', 'executive', 'manufacturing', 'ballantine']
+tech: ['consultation', 'added', 'marine', 'mark', 'conclude', 'word', 'films', 'action', 'passage', 'like']
+entertainment: ['uk', 'said', 'moving', 'mining', 'st', 'favourite', 'rebuttals', 'full', 'book', 'fearing']
+politics: ['leader', 'limiting', 'mirrored', 'dem', 'better', 'cash', 'programme', 'bbc', 'punished', 'committee']

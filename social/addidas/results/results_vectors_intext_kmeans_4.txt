@@ -1,0 +1,11 @@
+
+1['let', 'positivity', 'hometeam', 'together']
+2['sure', 'idol', 'competition', 'hometeam']
+3['adidas', 'hour', 'one', 'million']
+4['work', 'designer', 'adidas', 'collaborates']
+5['hometeam', 'thought', 'kaka', 'discus']
+6['upcoming', 'sell', 'available', 'coming']
+7['start', 'community', 'commitment', 'world']
+8['sport', 'something', 'court', 'leave']
+9['inspiration', 'adidas', 'take', 'inspo']
+['sure', 'adidas', 'teaming', 'hour']

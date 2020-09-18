@@ -1,0 +1,11 @@
+
+1['let', 'together', 'time', 'time']
+2['think', 'sure', 'thing', 'thought']
+3['one', 'one', 'one', 'hour']
+4['now', 'work', 'adidas', 'design']
+5['thought', 'thing', 'kaka', 'life']
+6['now', 'coming', 'soon', 'available']
+7['change', 'start', 'community', 'world']
+8['something', 'something', 'something', 'rather']
+9['every', 'take', 'now', 'new']
+['one', 'one', 'one', 'one']

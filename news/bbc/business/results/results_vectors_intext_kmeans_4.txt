@@ -1,0 +1,11 @@
+
+1['although', 'although', 'although', 'newspaper']
+2['decided', 'expect', 'car', 'sale']
+3['demand', 'insist', 'year', 'although']
+4['well', 'firm', 'whisky', 'considering']
+5['food', 'needed', 'million', 'crop']
+6['report', 'likely', 'owns', 'business']
+7['government', 'company', 'likely', 'investment']
+8['first', 'low', 'job', 'suggests']
+9['revenue', 'still', 'passenger', 'fuel']
+['addition', 'likely', 'although', 'apparently']

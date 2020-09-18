@@ -1,0 +1,11 @@
+
+1['quick', 'detangler', 'lightly', 'haircare']
+2['help', 'fatty', 'immune', 'pea']
+3['fruit', 'glutenfree', 'healthier', 'stuff']
+4['rest', 'feeling', 'magnesium', 'routine']
+5['help', 'moisturize', 'eczema', 'coconut']
+6['take', 'iherb', 'product', 'contest']
+7['know', 'capsule', 'brain', 'want']
+8['hair', 'contest', 'sponsored', 'must']
+9['confidence', 'contains', 'toothpaste', 'coffeelover']
+['even', 'butter', 'addition', 'iherb']

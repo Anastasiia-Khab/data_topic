@@ -1,0 +1,11 @@
+
+1['either', 'even', 'legislation', 'well']
+2['one', 'one', 'know', 'rather']
+3['need', 'need', 'need', 'research']
+4['put', 'put', 'sure', 'still']
+5['actually', 'one', 'sent', 'well']
+6['well', 'fact', 'make', 'make']
+7['actually', 'saying', 'say', 'think']
+8['say', 'know', 'people', 'reason']
+9['make', 'sure', 'want', 'much']
+['even', 'even', 'one', 'one']

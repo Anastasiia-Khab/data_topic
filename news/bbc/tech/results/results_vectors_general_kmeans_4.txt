@@ -1,0 +1,11 @@
+
+1['patent', 'however', 'bill', 'presumably']
+2['however', 'film', 'digital', 'print']
+3['bmxznot', 'though', 'however', 'blogger']
+4['tagsaastraavergiga', 'industry', 'creative', 'however']
+5['tweets@worldtimeengine', 'however', 'mobile', 'gadget']
+6['provider', 'however', 'price', 'survey']
+7['light', 'i.e.', 'silicon', 'however']
+8['security', 'macosxreg', 'however', 'flaw']
+9['i.e.', 'however', 'laptop', 'child']
+['tweets@worldtimeengine', 'even', 'however', 'i.e.']
